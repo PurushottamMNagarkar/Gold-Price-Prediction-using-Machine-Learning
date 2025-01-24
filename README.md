@@ -1,6 +1,8 @@
 # Gold-Price-Prediction-using-Machine-Learning
 Machine Learning Project #2
 
+https://raw.githubusercontent.com/PurushottamMNagarkar/Gold-Price-Prediction-using-Machine-Learning/refs/heads/main/6098370058671625323.webp
+
 A project from scratch about Gold price prediction. To build any data science project We have to follow certain steps that need not be in the same order. In our project, We will go through these steps sequentially.
 
 Problem Formulation 
