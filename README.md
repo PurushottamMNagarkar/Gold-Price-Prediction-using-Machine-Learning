@@ -19,3 +19,4 @@ Pandas – A Python library built on top of NumPy for effective matrix multiplic
 Numpy – A Python library that is used for numerical mathematical computation and handling multidimensional ndarray, it also has a very large collection of mathematical functions to operate on this array 
 Matplotlib – It is used for plotting 2D and 3D visualization plots, it also supports a variety of output formats including graphs 
 Seaborn – seaborn library is made on top of Matplotlib it
+  
